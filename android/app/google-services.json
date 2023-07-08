@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "443583697175",
+    "project_id": "fbnbankapp-ee000",
+    "storage_bucket": "fbnbankapp-ee000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443583697175:android:c12461384a3b2020112752",
+        "android_client_info": {
+          "package_name": "com.example.fbnbank_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443583697175-jgbij40i9h5jt0bqnqffdgqhci7g6na2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSLZcQqq0T9w1aHF9NeDtgTA4a_mFdI10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443583697175-jgbij40i9h5jt0bqnqffdgqhci7g6na2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "443583697175-m0v6duc99a4je19g0fmv2a6g27l0pics.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fbnbankApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443583697175:android:75d66578084868e1112752",
+        "android_client_info": {
+          "package_name": "com.fbnbank.fbnbank_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443583697175-jgbij40i9h5jt0bqnqffdgqhci7g6na2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSLZcQqq0T9w1aHF9NeDtgTA4a_mFdI10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443583697175-jgbij40i9h5jt0bqnqffdgqhci7g6na2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "443583697175-m0v6duc99a4je19g0fmv2a6g27l0pics.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fbnbankApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

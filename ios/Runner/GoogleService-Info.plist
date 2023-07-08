@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>443583697175-m0v6duc99a4je19g0fmv2a6g27l0pics.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.443583697175-m0v6duc99a4je19g0fmv2a6g27l0pics</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCq58Q8zlAbfZLq6vp5J5omIJIpuXU-mv4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>443583697175</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fbnbankApp</string>
+	<key>PROJECT_ID</key>
+	<string>fbnbankapp-ee000</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fbnbankapp-ee000.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:443583697175:ios:aea3127b4f5366b6112752</string>
+</dict>
+</plist>
